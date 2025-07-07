@@ -17,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/thenamekavyasingh/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/thenamekavyasingh/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/thenamekavyasingh/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/thenamekavyasingh/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -29,4 +31,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/thenamekavyasingh/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/thenamekavyasingh/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
